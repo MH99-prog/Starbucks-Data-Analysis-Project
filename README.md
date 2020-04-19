@@ -1,10 +1,10 @@
 # Starbucks-Data-Analysis-Project
 ## Installation
-1.Pandas
-2.Numpy
-3.seaborn
-4.matplotlib
-5.datetime
+ 1.Pandas
+ 2.Numpy
+ 3.seaborn
+ 4.matplotlib
+ 5.datetime
 
 # Project Motivation
 * Which kind of offer has attracted the customers in market?

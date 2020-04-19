@@ -5,7 +5,8 @@
  3. seaborn
  4. matplotlib
  5. datetime
-
+## Meduim Post 
+The description of useful insights about Starbucks can be meduim website posted [here](https://medium.com/@muhammadhaleem/starbucks-data-analysis-project-a7eec3be9202)
 # Project Motivation
 * Which kind of offer has attracted the customers in market?
 * What year is considered to be the most hyped in last five years?
